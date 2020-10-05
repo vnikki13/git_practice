@@ -9,4 +9,8 @@ class Goodbye
 
   somthing new
   anothign new
+
+  this is kinda new
+
+  also new
 end
