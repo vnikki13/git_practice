@@ -6,4 +6,6 @@ class Goodbye
   if true
     say_goodbye
   end
+
+  somthing new
 end
