@@ -8,4 +8,5 @@ class Goodbye
   end
 
   somthing new
+  anothign new
 end
