@@ -5,3 +5,7 @@ end
 if true
   p "true"
 end
+
+if false
+  p "false"
+end
