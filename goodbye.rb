@@ -3,14 +3,20 @@ class Goodbye
     puts 'Goodbye World'
   end
 
+  this is a new insert
+
   if true
     say_goodbye
   end
 
+  Adding something
+  diff_branch
   somthing new
   anothign new
 
   this is kinda new
 
+  closed the gap
+  diff_branch
   also new
 end
