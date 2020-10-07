@@ -3,6 +3,8 @@ class Goodbye
     puts 'Goodbye World'
   end
 
+  Inserting something else new
+
   this is a new insert
 
   if true
